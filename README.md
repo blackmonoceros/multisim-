@@ -3,15 +3,7 @@ Proste układy, proste pomiary
 Praca w środowisku symulacyjnym Multisim
 a. Proste układy
 
-1. Zapoznanie się z programem symulacyjnym Multisim’a firmy National Instruments
-(Rysunek w pliku pdf)
-Poniżej przedstawione jest okno jakie otworzy się po uruchomieniu programu przyciskiem 
-Jest to standardowe okno, gdzie większość oznaczeń pozwala w sposób prawie intuicyjny nawet niewprawnemu użytkownikowi
-na sprawne nawigowanie po programie i edytowanie schematów. Jedyna uwaga na samym początki jest taka, że użyte elementy
-i przyrządy są łączone poprzez zahaczenie kursora z przytrzymanym lewym przyciskiem myszki na elemencie wyjściowym i
-doprowadzenie rozwijającego się ``przewodu`` do elementu docelowego, co zostanie odpowiednio zasygnalizowane.
-
-3.  Utwórz prosty układ składający się ze źródła napięciowego 12V prądu stałego oraz obciążenia . 
+Utwórz prosty układ składający się ze źródła napięciowego 12V prądu stałego oraz obciążenia . 
 Symbol źródła może być wybrany w zgodzie ze standardem ANSI     lub 
 (Rysunek w pliku pdf)
 
